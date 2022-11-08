@@ -18,7 +18,7 @@
   "homepage": "https://github.com/tsukada-fairs/api_spec#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-aglio": "0.0.14",
+    "gulp-aglio": "0.1.0",
     "gulp-ejs": "^5.1.0",
     "gulp-rename": "^2.0.0",
     "protagonist": "^2.0.2",
